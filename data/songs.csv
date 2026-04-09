@@ -9,3 +9,11 @@ id,title,artist,genre,mood,energy,tempo_bpm,valence,danceability,acousticness
 8,Night Drive Loop,Neon Echo,synthwave,moody,0.75,110,0.49,0.73,0.22
 9,Focus Flow,LoRoom,lofi,focused,0.40,80,0.59,0.60,0.78
 10,Rooftop Lights,Indigo Parade,indie pop,happy,0.76,124,0.81,0.82,0.35
+11,Bass Drop Galaxy,XVLT,edm,intense,0.96,140,0.62,0.95,0.03
+12,Golden Fields,Clay Roads,country,relaxed,0.44,94,0.78,0.61,0.82
+13,Block Party Anthem,StreetGrid,hip-hop,happy,0.80,98,0.85,0.91,0.12
+14,Moonlight Sonata Remix,Arco Digital,classical,chill,0.22,66,0.70,0.30,0.97
+15,Iron Cathedral,Frostbite,metal,intense,0.97,168,0.22,0.55,0.04
+16,Velvet Hours,Sable Keys,r&b,moody,0.58,88,0.66,0.72,0.38
+17,Island Breeze,Roots Forward,reggae,happy,0.61,85,0.88,0.77,0.55
+18,Delta Crossing,Mudwater,blues,sad,0.39,76,0.31,0.48,0.90
